@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="1" total="4" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="SeleniumSessio" duration-ms="52536" started-at="2018-08-04T11:01:34Z" finished-at="2018-08-04T11:02:27Z">
+    <groups>
+    </groups>
+    <test name="Trial" duration-ms="52536" started-at="2018-08-04T11:01:34Z" finished-at="2018-08-04T11:02:27Z">
+      <class name="session8.testng2">
+        <test-method status="PASS" signature="testing1()[pri:4, instance:session8.testng2@5c7fa833]" name="testing1" duration-ms="17806" started-at="2018-08-04T11:02:09Z" finished-at="2018-08-04T11:02:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testing1 -->
+      </class> <!-- session8.testng2 -->
+      <class name="session8.testng1">
+        <test-method status="PASS" signature="test1()[pri:1, instance:session8.testng1@7823a2f9]" name="test1" duration-ms="19946" started-at="2018-08-04T11:01:34Z" finished-at="2018-08-04T11:01:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method status="PASS" signature="test2()[pri:3, instance:session8.testng1@7823a2f9]" name="test2" duration-ms="14658" started-at="2018-08-04T11:01:54Z" finished-at="2018-08-04T11:02:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test2 -->
+      </class> <!-- session8.testng1 -->
+    </test> <!-- Trial -->
+  </suite> <!-- SeleniumSessio -->
+</testng-results>
